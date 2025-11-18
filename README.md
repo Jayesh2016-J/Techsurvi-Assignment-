@@ -1,16 +1,56 @@
-# React + Vite
+# 🛒 Techsurvi E-Commerce Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **E-Commerce Product Listing Web App** built using  
+**React + Vite**, **Styled Components**, **Redux Toolkit**, and **FakeStore API**.
 
-Currently, two official plugins are available:
+This project displays products, allows filtering, sorting, infinite scroll, and clean UI similar to real e-commerce stores.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Fetch products from FakeStore API  
+✅ Product listing with images, price, category  
+✅ Product Details Page  
+✅ Category Filter  
+✅ Price Filter (Min–Max)  
+✅ Search Filter  
+✅ Sort by Price  
+✅ Clear Filters button  
+✅ Infinite Scroll / Pagination  
+✅ Loading & Error states  
+✅ Styled Components (No external CSS needed)  
+✅ Clean & modular folder structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React.js (Vite)**
+- **Redux Toolkit**
+- **Styled Components**
+- **Axios**
+- **React Router**
+- **FakeStore API**
+
+---
+
+## 🌐 API Used
+
+FakeStore API → https://fakestoreapi.com/products
+
+---
+
+---
+
+# ▶️ **How to Run the Project Locally**
+
+## 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Jayesh2016-J/Techsurvi-Assignment-.git
+cd Techsurvi-Assignment-
+npm install
+npm run dev
+
+
